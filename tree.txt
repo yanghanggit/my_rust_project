@@ -1,0 +1,52 @@
+.
+├── Cargo.lock
+├── Cargo.toml
+├── src
+│   └── main.rs
+├── target
+│   ├── CACHEDIR.TAG
+│   └── debug
+│       ├── build
+│       ├── deps
+│       │   ├── libmy_rust_project-20f3c945f5a6a231.rmeta
+│       │   ├── libmy_rust_project-6cc1eaae21fec824.rmeta
+│       │   ├── my_rust_project-20f3c945f5a6a231.d
+│       │   ├── my_rust_project-6cc1eaae21fec824.d
+│       │   ├── my_rust_project-ab467b8832cf2681
+│       │   ├── my_rust_project-ab467b8832cf2681.1392nwdji7f7rxf7.rcgu.o
+│       │   ├── my_rust_project-ab467b8832cf2681.28sb76v121t3fhwz.rcgu.o
+│       │   ├── my_rust_project-ab467b8832cf2681.2dke9jy60h8q79gn.rcgu.o
+│       │   ├── my_rust_project-ab467b8832cf2681.2e68g4egrnizyc9m.rcgu.o
+│       │   ├── my_rust_project-ab467b8832cf2681.2yr55l8l13be6i6r.rcgu.o
+│       │   ├── my_rust_project-ab467b8832cf2681.42q5r615cdy48ha9.rcgu.o
+│       │   └── my_rust_project-ab467b8832cf2681.d
+│       ├── examples
+│       ├── incremental
+│       │   ├── my_rust_project-1xzgsfb36rju4
+│       │   │   ├── s-gtuzzgyd9i-1at75i5-ccw3fwp8mu57os7iwjcp9rmg1
+│       │   │   │   ├── dep-graph.bin
+│       │   │   │   ├── query-cache.bin
+│       │   │   │   └── work-products.bin
+│       │   │   └── s-gtuzzgyd9i-1at75i5.lock
+│       │   ├── my_rust_project-jljhnp50vck5
+│       │   │   ├── s-gtuzzgyd94-6ymvuw-evi9wqeibjlyvnwaiid9jiju7
+│       │   │   │   ├── dep-graph.bin
+│       │   │   │   ├── query-cache.bin
+│       │   │   │   └── work-products.bin
+│       │   │   └── s-gtuzzgyd94-6ymvuw.lock
+│       │   └── my_rust_project-suq8kdbl8o0u
+│       │       ├── s-gs2xs4152d-ypon71-3as6rr3zo2lreegeeh1tvlo7x
+│       │       │   ├── 1392nwdji7f7rxf7.o
+│       │       │   ├── 28sb76v121t3fhwz.o
+│       │       │   ├── 2dke9jy60h8q79gn.o
+│       │       │   ├── 2e68g4egrnizyc9m.o
+│       │       │   ├── 2yr55l8l13be6i6r.o
+│       │       │   ├── 42q5r615cdy48ha9.o
+│       │       │   ├── dep-graph.bin
+│       │       │   ├── query-cache.bin
+│       │       │   └── work-products.bin
+│       │       └── s-gs2xs4152d-ypon71.lock
+│       ├── my_rust_project
+│       └── my_rust_project.d
+
+14 directories, 37 files
